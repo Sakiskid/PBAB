@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d5d23d804a1b546a4862fad65b17ee, type: 3}
+  m_Name: DEBUG Environment
+  m_EditorClassIdentifier: 
+  weight: 50
+  envObjectDensity: 50
+  envDetailDensity: 0
+  envHazardDensity: 0
+  backgroundPrefab: {fileID: 1881731906131312, guid: c6c445a08dd06f44b83800daec5d81f8,
+    type: 2}
+  darknessColor: {r: 0, g: 0, b: 0, a: 0}
+  envObjectTable: {fileID: 11400000, guid: b17ac104d4f82c24f870cce2ff93467c, type: 2}

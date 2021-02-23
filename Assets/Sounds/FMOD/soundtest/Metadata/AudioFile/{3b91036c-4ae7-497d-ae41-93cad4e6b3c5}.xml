@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{3b91036c-4ae7-497d-ae41-93cad4e6b3c5}">
+        <property name="assetPath">
+            <value>VO/vo_laugh_title.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.87603174603174605</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4876f5ed-2620-467a-9951-72bea02763e5}</destination>
+        </relationship>
+    </object>
+</objects>

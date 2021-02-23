@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf5fac4b2b804c4f9dfe9afad8f1b1e, type: 3}
+  m_Name: Env_Table Survival
+  m_EditorClassIdentifier: 
+  environmentTypes:
+  - {fileID: 11400000, guid: 8969e92473dfadd4bb14bf59be689c0d, type: 2}
+  - {fileID: 11400000, guid: c9250be5bf1205247a6d1328be939b1d, type: 2}
+  - {fileID: 11400000, guid: 59344476906c8b246bd209611c3ba514, type: 2}
+  - {fileID: 11400000, guid: c9250be5bf1205247a6d1328be939b1d, type: 2}
+  - {fileID: 11400000, guid: 3402fd0359b7f1d4c94fc6c86fe59bec, type: 2}
+  - {fileID: 11400000, guid: f8254743b59d8da40b98094cb6b81e49, type: 2}

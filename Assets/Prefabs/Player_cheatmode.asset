@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7ed729b8c8f7bf45a430aa760471be7, type: 3}
+  m_Name: Player_cheatmode
+  m_EditorClassIdentifier: 
+  hurtSound: event:/Player/Player_Hurt
+  deathSound: 
+  deathParticles: {fileID: 0}
+  rotationObject: {fileID: 1128209757308240, guid: b6789f2b4524ac94b9653b5e64fc938b,
+    type: 2}
+  initialHealth: 99999
+  health: 99999
+  rotationSpeed: 1200.69
+  speedMultiplier: 200
+  sprintMultiplier: 2
+  maxStaminaInSeconds: 3
+  staminaRegenPerSecond: 0.1
+  staminaRegenDelay: 1
+  minRunSpeed: 0
+  maxRunSpeed: 0
+  minSprintSpeed: 0
+  maxSprintSpeed: 0
+  weaponOffset: {x: 1, y: 0}
+  maxGrabRange: 100
